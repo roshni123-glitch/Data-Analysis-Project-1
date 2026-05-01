@@ -1,5 +1,9 @@
 <img width="1875" height="673" alt="PA2" src="https://github.com/user-attachments/assets/8f739d58-1b22-47c3-ac39-4c1cb426a201" />
- Vrinda Sales Annual Report Dashboard
+
+ 
+ 
+ 
+                                                                Vrinda Sales Annual Report Dashboard
 
 This project presents an interactive Sales Dashboard built to analyze the annual performance of Vrinda’s business. The dashboard provides insights into sales trends, customer demographics, regional performance, and order distribution across multiple channels.
 
@@ -16,9 +20,8 @@ Amazon is the leading sales channel, followed by Myntra and Flipkart.
 Maharashtra and Karnataka are the top-performing states.
 High delivery success rate (~92%) indicates strong logistics performance.
 Sales show seasonal trends with peaks in early months.
-🛠️ Tools & Technologies:
+Tools & Technologies:
 Microsoft Excel (Pivot Tables, Charts, Slicers)
 Data Visualization Techniques
  Purpose:
-
 The goal of this project is to demonstrate data analysis and visualization skills, helping businesses make data-driven decisions by identifying trends, patterns, and opportunities.
