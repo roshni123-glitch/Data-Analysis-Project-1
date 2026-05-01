@@ -1,3 +1,4 @@
+<img width="1875" height="673" alt="PA2" src="https://github.com/user-attachments/assets/8f739d58-1b22-47c3-ac39-4c1cb426a201" />
  Vrinda Sales Annual Report Dashboard
 
 This project presents an interactive Sales Dashboard built to analyze the annual performance of Vrinda’s business. The dashboard provides insights into sales trends, customer demographics, regional performance, and order distribution across multiple channels.
